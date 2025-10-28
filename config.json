@@ -1,0 +1,8 @@
+{
+  "access_token": "your_access_token_here",
+  "organization": "dongshan-community",
+  "api_base_url": "https://gitee.com/api/v5",
+  "limit": 100,
+  "data_dir": "./data",
+  "log_dir": "./logs"
+}
