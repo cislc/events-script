@@ -204,11 +204,3 @@ A: Gitee API 有频率限制,可以:
 1. 减少 `limit` 参数
 2. 增加请求间隔
 3. 使用企业版 access_token
-
-## 许可证
-
-MIT License
-
-## 贡献
-
-欢迎提交 Issue 和 Pull Request!
